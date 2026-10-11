@@ -1,0 +1,49 @@
+media:
+  input: img
+  output: img
+
+content:
+  - name: prices
+    label: Senarai Harga
+    type: file
+    path: data/prices.json
+    format: json
+    fields:
+      - name: updated
+        label: Tahun / tarikh kemas kini
+        type: string
+      - name: models
+        label: Model
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Nama model, type: string }
+          - { name: type, label: Jenis (cth. Sedan), type: string }
+          - name: variants
+            label: Varian
+            type: object
+            list: true
+            fields:
+              - { name: variant, label: Nama varian, type: string }
+              - { name: code, label: Kod, type: string }
+              - { name: otr, label: Harga OTR (RM), type: number }
+              - { name: deposit, label: Deposit 10% (RM), type: number }
+              - { name: loan, label: Pinjaman 90% (RM), type: number }
+              - { name: monthly_9, label: Bulanan 9 tahun (RM), type: number }
+              - { name: monthly_7, label: Bulanan 7 tahun (RM), type: number }
+              - { name: full_loan_9, label: Pinjaman penuh 9 tahun (RM), type: number }
+
+  - name: gallery
+    label: Pelanggan Gembira
+    type: file
+    path: data/gallery.json
+    format: json
+    fields:
+      - name: photos
+        label: Gambar pelanggan
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Gambar, type: image }
+          - { name: caption, label: Model kereta (cth. Myvi), type: string }
+          - { name: description, label: Penerangan ringkas, type: string }
