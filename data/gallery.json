@@ -1,0 +1,49 @@
+{
+  "photos": [
+    {
+      "image": "img/c9.jpg",
+      "caption": "G-Mart Hulu Langat",
+      "description": "Pasangan pelanggan dengan kereta baharu berhias reben di G-Mart Holdings Hulu Langat"
+    },
+    {
+      "image": "img/c1.jpg",
+      "caption": "Myvi",
+      "description": "Pelanggan bersama Myvi biru"
+    },
+    {
+      "image": "img/c2.jpg",
+      "caption": "Axia",
+      "description": "Pelanggan bersama Axia kelabu"
+    },
+    {
+      "image": "img/c6.jpg",
+      "caption": "Bezza",
+      "description": "Pelanggan bersama Bezza perang"
+    },
+    {
+      "image": "img/c3.jpg",
+      "caption": "Myvi",
+      "description": "Pelanggan bersama Myvi putih"
+    },
+    {
+      "image": "img/c5.jpg",
+      "caption": "Axia",
+      "description": "Pelanggan bersama Axia perak"
+    },
+    {
+      "image": "img/c4.jpg",
+      "caption": "Myvi",
+      "description": "Pelanggan bersama Myvi hitam"
+    },
+    {
+      "image": "img/c7.jpg",
+      "caption": "Bezza",
+      "description": "Pelanggan bersama Bezza perang pada waktu malam"
+    },
+    {
+      "image": "img/c8.jpg",
+      "caption": "Bezza",
+      "description": "Pelanggan bersama Bezza perak"
+    }
+  ]
+}

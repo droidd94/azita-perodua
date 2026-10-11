@@ -1,0 +1,327 @@
+{
+  "updated": "2026",
+  "models": [
+    {
+      "name": "Axia",
+      "type": "Hatchback kompak",
+      "variants": [
+        {
+          "variant": "Axia 1.0 E (MT)",
+          "code": "BG1EX1",
+          "otr": 23274.33,
+          "deposit": 2374.33,
+          "loan": 20900,
+          "monthly_9": 255,
+          "monthly_7": 310,
+          "full_loan_9": 285
+        },
+        {
+          "variant": "Axia 1.0 G (CVT)",
+          "code": "CG1GZ",
+          "otr": 35510.26,
+          "deposit": 3510.26,
+          "loan": 32100,
+          "monthly_9": 382,
+          "monthly_7": 467,
+          "full_loan_9": 423
+        },
+        {
+          "variant": "Axia 1.0 X (CVT)",
+          "code": "CG1XZ",
+          "otr": 40220.5,
+          "deposit": 4120.5,
+          "loan": 36100,
+          "monthly_9": 430,
+          "monthly_7": 525,
+          "full_loan_9": 479
+        },
+        {
+          "variant": "Axia 1.0 SE (CVT)",
+          "code": "CG1SZ",
+          "otr": 44766.35,
+          "deposit": 4566.35,
+          "loan": 40200,
+          "monthly_9": 479,
+          "monthly_7": 585,
+          "full_loan_9": 533
+        },
+        {
+          "variant": "Axia 1.0 AV (CVT)",
+          "code": "CG1VZ",
+          "otr": 50921.8,
+          "deposit": 5121.8,
+          "loan": 45800,
+          "monthly_9": 546,
+          "monthly_7": 667,
+          "full_loan_9": 607
+        }
+      ]
+    },
+    {
+      "name": "Myvi",
+      "type": "Hatchback",
+      "variants": [
+        {
+          "variant": "Myvi 1.3 G (CVT)",
+          "code": "BD3GZ1",
+          "otr": 48390.43,
+          "deposit": 4890.43,
+          "loan": 43500,
+          "monthly_9": 529,
+          "monthly_7": 644,
+          "full_loan_9": 564
+        },
+        {
+          "variant": "Myvi 1.3 G (CVT)",
+          "code": "BD3GZ",
+          "otr": 50445.55,
+          "deposit": 5045.55,
+          "loan": 45400,
+          "monthly_9": 552,
+          "monthly_7": 672,
+          "full_loan_9": 589
+        },
+        {
+          "variant": "Myvi 1.5 X (CVT)",
+          "code": "BD5XZ",
+          "otr": 52961.83,
+          "deposit": 5361.83,
+          "loan": 47600,
+          "monthly_9": 579,
+          "monthly_7": 705,
+          "full_loan_9": 617
+        },
+        {
+          "variant": "Myvi 1.5 H (CVT)",
+          "code": "BD5HZ",
+          "otr": 57072.07,
+          "deposit": 5772.07,
+          "loan": 51300,
+          "monthly_9": 624,
+          "monthly_7": 760,
+          "full_loan_9": 666
+        },
+        {
+          "variant": "Myvi 1.5 AV (CVT)",
+          "code": "BD5VZ",
+          "otr": 62209.87,
+          "deposit": 6309.87,
+          "loan": 55900,
+          "monthly_9": 680,
+          "monthly_7": 828,
+          "full_loan_9": 727
+        }
+      ]
+    },
+    {
+      "name": "Bezza",
+      "type": "Sedan",
+      "variants": [
+        {
+          "variant": "Bezza 1.0 G (MT)",
+          "code": "AQ1GX2",
+          "otr": 36541.25,
+          "deposit": 3741.25,
+          "loan": 32800,
+          "monthly_9": 385,
+          "monthly_7": 470,
+          "full_loan_9": 435
+        },
+        {
+          "variant": "Bezza 1.0 G (AT)",
+          "code": "AQ1GZ2",
+          "otr": 38584.53,
+          "deposit": 3884.53,
+          "loan": 34700,
+          "monthly_9": 408,
+          "monthly_7": 498,
+          "full_loan_9": 450
+        },
+        {
+          "variant": "Bezza 1.3 X (AT)",
+          "code": "AQ3VX1",
+          "otr": 46147.39,
+          "deposit": 4647.39,
+          "loan": 41500,
+          "monthly_9": 489,
+          "monthly_7": 599,
+          "full_loan_9": 538
+        },
+        {
+          "variant": "Bezza 1.3 AV (AT)",
+          "code": "AQ3VZ1",
+          "otr": 52298.99,
+          "deposit": 5298.99,
+          "loan": 47000,
+          "monthly_9": 555,
+          "monthly_7": 680,
+          "full_loan_9": 610
+        }
+      ]
+    },
+    {
+      "name": "Ativa",
+      "type": "SUV kompak",
+      "variants": [
+        {
+          "variant": "Ativa 1.0 Turbo X (CVT) MET",
+          "code": "U1XZ",
+          "otr": 64941.22,
+          "deposit": 6541.22,
+          "loan": 58400,
+          "monthly_9": 660,
+          "monthly_7": 814,
+          "full_loan_9": 725
+        },
+        {
+          "variant": "Ativa 1.0 Turbo H (CVT) MET",
+          "code": "U1HZ",
+          "otr": 69881.62,
+          "deposit": 7081.62,
+          "loan": 62800,
+          "monthly_9": 710,
+          "monthly_7": 876,
+          "full_loan_9": 780
+        },
+        {
+          "variant": "Ativa 1.0 Turbo H (CVT) S/MET",
+          "code": "U1HZ",
+          "otr": 70409.7,
+          "deposit": 7109.7,
+          "loan": 63300,
+          "monthly_9": 716,
+          "monthly_7": 883,
+          "full_loan_9": 787
+        },
+        {
+          "variant": "Ativa 1.0 Turbo AV (CVT) MET",
+          "code": "U1VZ",
+          "otr": 75322.02,
+          "deposit": 7622.02,
+          "loan": 67700,
+          "monthly_9": 766,
+          "monthly_7": 945,
+          "full_loan_9": 842
+        },
+        {
+          "variant": "Ativa 1.0 Turbo AV (CVT) S/MET",
+          "code": "U1VZ",
+          "otr": 75850.1,
+          "deposit": 7650.1,
+          "loan": 68200,
+          "monthly_9": 772,
+          "monthly_7": 952,
+          "full_loan_9": 848
+        },
+        {
+          "variant": "Ativa 1.0 Turbo AV (CVT) 2-Tone",
+          "code": "U1VZ",
+          "otr": 76150.1,
+          "deposit": 7650.1,
+          "loan": 68500,
+          "monthly_9": 775,
+          "monthly_7": 955,
+          "full_loan_9": 850
+        }
+      ]
+    },
+    {
+      "name": "Alza",
+      "type": "MPV 7 tempat duduk",
+      "variants": [
+        {
+          "variant": "Alza 1.5 X (CVT)",
+          "code": "BP5XZ",
+          "otr": 65003.54,
+          "deposit": 6503.54,
+          "loan": 58500,
+          "monthly_9": 655,
+          "monthly_7": 807,
+          "full_loan_9": 727
+        },
+        {
+          "variant": "Alza 1.5 H (CVT)",
+          "code": "BP5HZ",
+          "otr": 70643.95,
+          "deposit": 7143.95,
+          "loan": 63500,
+          "monthly_9": 716,
+          "monthly_7": 585,
+          "full_loan_9": 789
+        },
+        {
+          "variant": "Alza 1.5 AV (CVT)",
+          "code": "BP5VZ",
+          "otr": 78340.5,
+          "deposit": 7840.5,
+          "loan": 70500,
+          "monthly_9": 791,
+          "monthly_7": 976,
+          "full_loan_9": 875
+        }
+      ]
+    },
+    {
+      "name": "Aruz",
+      "type": "SUV 7 tempat duduk",
+      "variants": [
+        {
+          "variant": "Aruz 1.5 X (AT)",
+          "code": "W5XZ1",
+          "otr": 76001.08,
+          "deposit": 7601.08,
+          "loan": 68400,
+          "monthly_9": 770,
+          "monthly_7": 1272,
+          "full_loan_9": 849
+        },
+        {
+          "variant": "Aruz 1.5 AV (AT)",
+          "code": "W5VZ1",
+          "otr": 81162.54,
+          "deposit": 8162.54,
+          "loan": 73000,
+          "monthly_9": 822,
+          "monthly_7": 1359,
+          "full_loan_9": 906
+        }
+      ]
+    },
+    {
+      "name": "Traz",
+      "type": "Van / MPV",
+      "variants": [
+        {
+          "variant": "Traz 1.5 X (CVT)",
+          "code": "Y5XZ",
+          "otr": 78928,
+          "deposit": 7928,
+          "loan": 71000,
+          "monthly_9": 790,
+          "monthly_7": 978,
+          "full_loan_9": 875
+        },
+        {
+          "variant": "Traz 1.5 H (CVT)",
+          "code": "Y5HZ",
+          "otr": 84068,
+          "deposit": 8468,
+          "loan": 75600,
+          "monthly_9": 841,
+          "monthly_7": 1041,
+          "full_loan_9": 934
+        },
+        {
+          "variant": "Traz 1.5 H (CVT) 2-Tone",
+          "code": "Y5HZ",
+          "otr": 84988,
+          "deposit": 8588,
+          "loan": 76400,
+          "monthly_9": 850,
+          "monthly_7": 1053,
+          "full_loan_9": 944
+        }
+      ]
+    }
+  ]
+}
